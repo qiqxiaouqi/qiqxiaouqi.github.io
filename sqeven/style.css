@@ -28,6 +28,7 @@ pre {
 .box { 
 	background:#444; background:rgba(0,0,0,.6);
 	padding:20px;
+	width:82px;
 	border-radius:5px;
 	margin-bottom:20px;
 }
